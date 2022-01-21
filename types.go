@@ -309,6 +309,7 @@ type BalanceResponse struct {
 	ZKRW float64 `json:"ZKRW,string"`
 	ZUSD float64 `json:"ZUSD,string"`
 	TRX  float64 `json:"TRX,string"`
+	NANO  float64 `json:"NANO,string"`
 }
 
 // TradeBalanceResponse struct used as the response for the TradeBalance method
