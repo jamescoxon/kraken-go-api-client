@@ -56,7 +56,6 @@ var privateMethods = []string{
 	"OpenOrders",
 	"OpenPositions",
 	"QueryLedgers",
-	"Ledgers",
 	"QueryOrders",
 	"QueryTrades",
 	"RemoveExport",
